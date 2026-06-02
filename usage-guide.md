@@ -44,9 +44,8 @@ This ensures all process termination commands work correctly.
 
 When launched, the following menu appears:
 
-======================================
 PROCESS MANAGEMENT TOOL
-======================================
+
 
 1. Show Chrome Instances
 2. Kill All Chrome Instances
